@@ -2,6 +2,8 @@
 
 This project implements the **Go-Back-N ARQ protocol** using OMNeT++ and demonstrates flow control, packet loss handling, and retransmission mechanisms.
 
+Demo: https://youtu.be/LoDON5u7SEE
+
 ## Features / Project Requirements
 The project fulfills all core requirements and bonus tasks:
 
